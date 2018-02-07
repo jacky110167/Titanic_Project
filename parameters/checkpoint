@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/Project workspace/Titanic_Project/neuralnetwork/params.ckpt"
+all_model_checkpoint_paths: "D:/Project workspace/Titanic_Project/neuralnetwork/params.ckpt"
